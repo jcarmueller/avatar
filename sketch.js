@@ -1,3 +1,9 @@
+//Sketch 4: Avatar          Julia Mueller   jm3048@bard.edu   13 Feb 2017
+//Reflection: Orginally I wanted to make a design that represented me. I think that I did an ok job but it doesn't look anything like I do. 
+//Seeing the numbers in brackets means nothing to me, but when it's combined with p5js it's very gratifying to see the visual. 
+
+
+
 function setup() {
   createCanvas(500, 500);
 
@@ -6,10 +12,6 @@ function setup() {
 function draw() {
   background(200);
     fill(12, 12, 12);
-    text("Sketch 4: Avatar          Julia Mueller   jm3048@bard.edu   13 Feb 2017", 18, 18);
-    text("Reflection: Orginally I wanted to make a design that represented me. I think that I did an ", 18, 30);
-    text("ok job but it doesn't look anything like I do. Seeing the numbers in brackets means nothing ", 18, 42);
-    text("to me, but when it's combined with p5js it's very gratifying to see the visual.", 18, 53);
     
     //neck
     fill(150);
